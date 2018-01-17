@@ -9,8 +9,19 @@ class Difference {
   	private int[] elements;
   	public int maximumDifference;
     // Below Here
-    
+    Difference(int[] elements) {
+        this.elements = elements;
+    }
 
+    void computeDifference() {
+        int max = 0;
+        int min = 100;
+        for (int i = 0; i < elements.length; i++) {
+            max = (elements[i] > max) ? elements[i] : max;
+            min = (elements[i] < min) ? elements[i] : min;
+        }
+        maximumDifference = max - min;
+    }
     // Above Here
 }
 
