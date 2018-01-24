@@ -1,0 +1,10 @@
+C:\Users\Brogan\Documents\GitHub\HackerRank\30 Day Code Challenges\Day 00 Hello World\dotnet\bin\Debug\netcoreapp2.0\dotnet.deps.json
+C:\Users\Brogan\Documents\GitHub\HackerRank\30 Day Code Challenges\Day 00 Hello World\dotnet\bin\Debug\netcoreapp2.0\dotnet.runtimeconfig.json
+C:\Users\Brogan\Documents\GitHub\HackerRank\30 Day Code Challenges\Day 00 Hello World\dotnet\bin\Debug\netcoreapp2.0\dotnet.runtimeconfig.dev.json
+C:\Users\Brogan\Documents\GitHub\HackerRank\30 Day Code Challenges\Day 00 Hello World\dotnet\bin\Debug\netcoreapp2.0\dotnet.dll
+C:\Users\Brogan\Documents\GitHub\HackerRank\30 Day Code Challenges\Day 00 Hello World\dotnet\bin\Debug\netcoreapp2.0\dotnet.pdb
+C:\Users\Brogan\Documents\GitHub\HackerRank\30 Day Code Challenges\Day 00 Hello World\dotnet\obj\Debug\netcoreapp2.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Brogan\Documents\GitHub\HackerRank\30 Day Code Challenges\Day 00 Hello World\dotnet\obj\Debug\netcoreapp2.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\Brogan\Documents\GitHub\HackerRank\30 Day Code Challenges\Day 00 Hello World\dotnet\obj\Debug\netcoreapp2.0\dotnet.AssemblyInfo.cs
+C:\Users\Brogan\Documents\GitHub\HackerRank\30 Day Code Challenges\Day 00 Hello World\dotnet\obj\Debug\netcoreapp2.0\dotnet.dll
+C:\Users\Brogan\Documents\GitHub\HackerRank\30 Day Code Challenges\Day 00 Hello World\dotnet\obj\Debug\netcoreapp2.0\dotnet.pdb
